@@ -1,0 +1,32 @@
+{
+  "name": "assessment-tendered",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahahsan12/assessment-tenderd.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api"
+  ],
+  "author": "abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahahsan12/assessment-tenderd/issues"
+  },
+  "homepage": "https://github.com/abdullahahsan12/assessment-tenderd#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
