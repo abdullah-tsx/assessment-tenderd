@@ -9,7 +9,7 @@ const albumSchema = new Schema({
         type: 'String',
     },
     cost: {
-        type: 'Integer',
+        type: 'Number',
     },
 }, {timestamps: true});
 
